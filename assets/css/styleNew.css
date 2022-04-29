@@ -127,7 +127,7 @@
 }
 
 .icon-custom {
-  color: #f3ba2c;
+  color: #13b5ec;
   font-size: 24px;
 }
 
@@ -171,7 +171,7 @@
   font-weight: 300;
   font-size: 1rem;
   padding: 10px;
-  background-color: #7c652b;
+  background-color: #185063;
   /* text-shadow: -1px -1px black, 1px 1px rgb(61, 61, 61); */
   color: rgb(255, 255, 255);
   -webkit-border-radius: 7px;
@@ -193,7 +193,7 @@
   font-weight: 300;
   font-size: 1rem;
   padding: 10px;
-  background-color: #f3ba2c00;
+  background-color: #13b5ec00;
   /* text-shadow: -1px -1px black, 1px 1px rgb(61, 61, 61); */
   color: white;
   -webkit-border-radius: 7px;
@@ -228,7 +228,7 @@ hr {
   justify-content: space-around !important;
 }
 .maintext {
-  color: #f3ba2c;
+  color: #13b5ec;
   font-size: 50px;
 }
 /* Style The Dropdown Button */
