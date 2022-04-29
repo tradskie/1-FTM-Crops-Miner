@@ -133,7 +133,7 @@ h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
+  border: 6px solid #13b5ec;
   border-top-color: #151515;
   border-bottom-color: #151515;
   border-radius: 50%;
@@ -194,7 +194,7 @@ h6 {
   color: #fff;
 }
 #header .logo a span {
-  color: #ffc451;
+  color: #13b5ec;
 }
 
 #header .logo img {
@@ -413,7 +413,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  background-color: #ffc451;
+  background-color: #13b5ec;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -938,7 +938,7 @@ h6 {
 .disclaimer i {
   padding-right: 1px;
   font-size: 15px;
-  color: #ffc451;
+  color: #13b5ec;
   line-height: 2;
 }
 
@@ -1055,18 +1055,18 @@ h6 {
   display: inline-flex;
   padding-right: 5px;
   font-size: 17px;
-  color: #ffc451;
+  color: #13b5ec;
   line-height: 1.5;
 }
 
 .overview #user-balance {
-  color: #ffc451;
+  color: #13b5ec;
   padding-left: 5px;
   padding-right: 5px;
 }
 
 .overview #max-investment {
-  color: #ffc451;
+  color: #13b5ec;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -1541,7 +1541,7 @@ section {
   text-transform: uppercase;
 }
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #13b5ec;
 }
 #footer .footer-top .footer-info p {
   font-size: 14px;
@@ -1565,7 +1565,7 @@ section {
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #ffc451;
+  background: #13b5ec;
   color: #151515;
   text-decoration: none;
 }
@@ -1586,7 +1586,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffc451;
+  color: #13b5ec;
   font-size: 18px;
   line-height: 1;
 }
@@ -1605,7 +1605,7 @@ section {
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #ffc451;
+  color: #13b5ec;
 }
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
@@ -1628,7 +1628,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ffc451;
+  background: #13b5ec;
   color: #151515;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
