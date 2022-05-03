@@ -608,7 +608,7 @@ h6 {
   border-radius: var(--border-width);
   background-color: var(--secondary);
   max-width: 1112px;
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  box-shadow: rgb(14 21 27) 0px 0px 30px 10px;
   max-width: 1112px;
   height: auto;
   width: auto;
