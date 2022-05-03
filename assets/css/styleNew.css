@@ -151,7 +151,7 @@
   font-size: 1rem;
   padding: 10px;
   background-color: var(--token);
-  /* text-shadow: -1px -1px black, 1px 1px rgb(61, 61, 61); */
+  box-shadow: -1px -1px 15px 0px black, 1px 1px rgb(61 61 61);
   color: rgb(255, 255, 255);
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;

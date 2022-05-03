@@ -1843,7 +1843,7 @@ if (!document.createElement("canvas").getContext) {
 // Update function
 function updateTime() {
   var start = moment(), // Time start
-    target = moment("April 29, 2022 9:00 EST"), // Target Time
+    target = moment("May 06, 2022 9:00 EST"), // Target Time
     diff = target - start // Difference
 
   var days = Math.floor(diff / (1000 * 60 * 60 * 24)), // Calc number of days...
