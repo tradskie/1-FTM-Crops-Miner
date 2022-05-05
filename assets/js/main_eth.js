@@ -34,12 +34,9 @@ const minerAbi = [{"inputs":[{"internalType":"address payable","name":"_dev1","t
 
 function loadContracts() {
     console.log('Loading contracts...')
-    web3 = window.web3
-    let networkID = await web3.eth.net.getId();
-    if (networkID == 250) {	
-	contract = new web3.eth.Contract(minerAbi, minerAddress);
-	console.log('Done loading contracts.')
-    }
+    web3 = window.web3	
+    contract = new web3.eth.Contract(minerAbi, minerAddress);
+    console.log('Done loading contracts.')
 }
 
 function myReferralLink(address) {
