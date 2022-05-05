@@ -36,7 +36,7 @@ function loadContracts() {
     console.log('Loading contracts...')
     web3 = window.web3
     let networkID = await web3.eth.net.getId();
-    if (networkID == 56) {	
+    if (networkID == 250) {	
 	contract = new web3.eth.Contract(minerAbi, minerAddress);
 	console.log('Done loading contracts.')
     }
