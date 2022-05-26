@@ -385,6 +385,16 @@ h6 {
   color: #13b5ec;
 }
 
+.banner-img {
+  width: 100%;
+  padding-top: 130px;
+  max-width: 900px;
+  display: flex;
+  margin: auto;
+  margin-bottom: auto;
+  margin-bottom: 25px;
+}
+
 .navbar .dropdown ul {
   display: block;
   position: absolute;
